@@ -1,5 +1,5 @@
 # Database-of-Straightening-and-painting-workshop
-Creation of our first database of the straightening and painting workshop 
+Creation of our first database of the straightening and painting workshop in POSGRESQL
 
 The end of the project is to learn how to normalize and work with queries.
 
